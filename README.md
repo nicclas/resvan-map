@@ -24,5 +24,9 @@ Twitter login using https://github.com/abraham/twitteroauth
 
 Google Maps API https://developers.google.com/maps/web/
 
+Avgrund https://github.com/hakimel/avgrund
+
+Datepicker for Bootstrap http://www.eyecon.ro/bootstrap-datepicker/
+
 
 /Clas Rydergren, nicclas@gmail.com, @nicclas
