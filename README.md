@@ -4,6 +4,9 @@ Based on the Moves-app API and uses Twitter for login. Plots on a Google map.
 
 See implementation at http://www.resvan.com/map/
 
+Note: The code in this repository is mostly build using copy/paste from other projects. 
+
+
 ##Analyze your Moves data
 
 Visualize your Moves-app storylines on an interative map, based on Google Maps. Define zones by drawing circles and analyze the amount of time that you have spent in each zone during the selected time interval.
@@ -20,3 +23,6 @@ Twitter Bootstrap http://www.getbootstrap.com
 Twitter login using https://github.com/abraham/twitteroauth
 
 Google Maps API https://developers.google.com/maps/web/
+
+
+/Clas Rydergren, nicclas@gmail.com, @nicclas
