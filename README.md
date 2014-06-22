@@ -4,7 +4,7 @@ Based on the Moves-app API and uses Twitter for login. Plots on a Google map.
 
 See implementation at http://www.resvan.com/map/
 
-Note: The code in this repository is mostly build using copy/paste from other projects. 
+Note: The code in this repository is built mostly using copy/paste from other projects, is made during one weekend, and is a typical "hack". 
 
 
 ##Analyze your Moves data
